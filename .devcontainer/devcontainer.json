@@ -16,7 +16,11 @@
 				"usernamehw.errorlens",
 				"PKief.material-icon-theme",
 				"eamodio.gitlens",
-				"redjue.git-commit-plugin"
+				"redjue.git-commit-plugin",
+				"ms-python.python",
+				"ms-toolsai.jupyter",
+				"charliermarsh.ruff",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	}
