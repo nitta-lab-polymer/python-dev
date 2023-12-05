@@ -20,7 +20,8 @@
 				"ms-python.python",
 				"ms-toolsai.jupyter",
 				"charliermarsh.ruff",
-				"ms-azuretools.vscode-docker"
+				"ms-azuretools.vscode-docker",
+				"DavidAnson.vscode-markdownlint"
 			]
 		}
 	}
