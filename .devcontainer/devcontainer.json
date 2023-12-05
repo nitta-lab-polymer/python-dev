@@ -1,0 +1,23 @@
+{
+	"name": "Existing Dockerfile",
+	"build": {
+		"context": "..",
+		"dockerfile": "../Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"dotfiles.repository": "https://github.com/nitta-lab-polymer/dotfiles.git",
+				"dotfiles.targetPath": "/workspaces/${localWorkspaceFolderBasename}/dotfiles"
+			},
+			"extensions": [
+				"GitHub.copilot",
+				"streetsidesoftware.code-spell-checker",
+				"usernamehw.errorlens",
+				"PKief.material-icon-theme",
+				"eamodio.gitlens",
+				"redjue.git-commit-plugin"
+			]
+		}
+	}
+}
