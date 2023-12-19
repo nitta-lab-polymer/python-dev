@@ -1,6 +1,7 @@
 # python-dev
 
 基本的なpython開発環境です。
+VS Codeを前提としています。
 
 ## 使い方
 
